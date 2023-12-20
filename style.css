@@ -144,3 +144,9 @@ footer {
 .contact-method h3 {
     color: blue;
 }
+
+iframe {
+    border: none;
+    height: 100%;
+    width: 100%;
+}
